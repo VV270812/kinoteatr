@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    font-size:1200px;
+}
+
+p, li {
+    font-size:30px;
+}
+
+h1 {
+    text-align:center;
+    font-size:40px;
+    color:#0776A0;
+}
+
+header {
+    background-color:lightgreen;
+    padding:20px;
+}
+
+footer {
+    background-color:lightgreen;
+    padding:10px;
+    color:#0776A0;
+}
+
+li {
+    margin:10px;
+    color:#4811AE;
+}
+
+.one {
+    border:10px solid lightgreen;
+}
+
+.two {
+    border:20px double lightgreen;
+}
+
+.three {
+    border:10px dashed lightgreen;
+}
+
+.four {
+    border:10px groove lightgreen;
+}
+
+.five {
+    border:10px inset lightgreen;
+}
+
+a {
+    text-decoration:none;
+    font-size:30px;
+    color:#0776A0;
+    border:3px solid #0776A0;
+    border-radius:15px;
+    padding:5px;
+}
