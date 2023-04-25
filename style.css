@@ -3,11 +3,12 @@ body {
 }
 
 img {
-    font-size:1200px;
+    width:1200px;
 }
 
 p, li {
     font-size:30px;
+    font-family:sans-serif;
 }
 
 h1 {
